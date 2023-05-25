@@ -11,3 +11,5 @@ To be very honest, this ain't a fancy or scholarly thing. It's just a casual spa
 Oh, and just a heads-up: My English suck as it isn't my first language, so it might not be perfect.
 
 Horns up, metalheads 🤘
+
+(built with jekyll - theme inspired by [riggraz/no-style-please](https://github.com/riggraz/no-style-please))
