@@ -92,3 +92,11 @@ img {
   display: block;
   margin: 0 auto;
 }
+
+.collapsible-content {
+  display: none;
+}
+
+.collapsible-toggle:checked + .collapsible-label + .collapsible-content {
+  display: block;
+}
