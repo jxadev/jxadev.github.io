@@ -19,7 +19,7 @@ entries:
 #       show_more_url: example2-archive.html
 
   - title: about
-    url: about.md
+    url: about
   
   - title: rss
     url: feed.xml
