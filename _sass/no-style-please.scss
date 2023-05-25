@@ -100,3 +100,11 @@ img {
 .collapsible-toggle:checked + .collapsible-label + .collapsible-content {
   display: block;
 }
+
+a:link, a:visited {
+    color: blue;
+}
+
+a:hover {
+    color: red;
+}
