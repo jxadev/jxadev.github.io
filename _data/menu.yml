@@ -2,8 +2,9 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: a passion-driven blog by a metal-head from india
-      
+  - title: about
+    url: about
+  
   - title: latest posts
     post_list:
       limit: 5
@@ -17,9 +18,6 @@ entries:
 #       show_more: true
 #       show_more_text: See more posts...
 #       show_more_url: example2-archive.html
-
-  - title: about
-    url: about
   
   - title: rss
     url: feed.xml
