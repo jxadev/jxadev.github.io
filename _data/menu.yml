@@ -7,9 +7,9 @@ entries:
   - title: latest posts
     post_list:
       limit: 5
-#       show_more: true
-#       show_more_text: See archive...
-#       show_more_url: archive.html
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
 
 #   - title: posts by category
 #     post_list:
