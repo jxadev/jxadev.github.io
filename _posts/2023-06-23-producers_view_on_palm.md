@@ -13,6 +13,6 @@ A challenge to alternative sources being other oils are potentially not as land 
 
 
 
-https://www.jnj.com/about-jnj/policies-and-positions/responsible-palm-oil-sourcing-policy-progress-update
+(https://www.jnj.com/about-jnj/policies-and-positions/responsible-palm-oil-sourcing-policy-progress-update)
 
-https://www.pginvestor.com/esg/environmental/forestry/palm-overview/default.aspx
+(https://www.pginvestor.com/esg/environmental/forestry/palm-overview/default.aspx)
